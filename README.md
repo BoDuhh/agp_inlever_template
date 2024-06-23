@@ -19,11 +19,10 @@ The Rift Guardian is een vr shooter die zich afspeelt in de ruimte waar je enemi
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
+| Online Product backlog & Sprint backlog + DoD (Trello)    | [DoD](https://unreal-academy.codecks.io/card/3qj-definition-of-done-dod) [Backlog](https://unreal-academy.codecks.io/decks/109-product-backlog) [Sprint Backlog](https://unreal-academy.codecks.io/decks/152-sprint-backlog-06)
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
-| Opnames standups (Teams opnames)                          | [Folder op teams]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
