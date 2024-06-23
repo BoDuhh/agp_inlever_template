@@ -11,9 +11,9 @@ Platform:
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]
+| Link naar online product backlog (Trello) | [Backlog](https://unreal-academy.codecks.io/decks/109-product-backlog)
 | Logboek (pdf)                             | [Logboek]
-| Game concept doc (pdf)                    | [GameDesignDoc]
+| Game concept doc (pdf)                    | [GameDesignDoc](https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp/card/4we-diverse-enemy-type)
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
