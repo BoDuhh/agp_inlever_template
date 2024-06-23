@@ -2,7 +2,7 @@
 Project team:Devils Luck
 
 Platform:
-[Unreal Engine]
+Unreal Engine
 
 ### Korte omschrijving van de game
 The Rift Guardian is een vr shooter die zich afspeelt in de ruimte waar je enemies in waves moet vermoorden om nieuwe items in de shop te kunnen kopen. Schuil achter obstakels en shiet Enemies. Let goed op want anders ben je snel dood
